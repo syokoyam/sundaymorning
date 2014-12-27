@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>"Sunday Morning"</title>
+            <author>by Wallace Stevens</author>
+            <respStmt>
+               <resp>Creation of machine-readable text by</resp> 
+               <name>Setsuko Yokoyama</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>It is a version published in
+               <bibl>
+                  <title>Harmonium</title>
+                  <publisher>Alfred. A. Knopf</publisher>
+                  <date when="1923">1923</date>
+               </bibl>
+            </p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>See the publication statement above.</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <lg n="I">
+            <l>I</l>
+            <l>Complacencies of the peignoir, and late</l>
+            <l>Coffee and oranges in a sunny chair,</l>
+            <l>And the green freedom of a cockatoo</l>
+            <l>Upon a rug mingle to dissipate</l>
+            <l>The holy hush of ancient sacrifice.</l>
+            <l>She dreams a little, and she feels the dark</l>
+            <l>Encroachment of that old catastrophe,</l>
+            <l>As a calm darkens among water-lights.</l>
+            <l>The pungent oranges and bright, green wings</l>
+            <l>Seem things in some procession of the dead,</l>
+            <l>Winding across wide water, without sound.</l>
+            <l>The day is like wide water, without sound,</l>
+            <l>Stilled for the passing of her dreaming feet</l>
+            <l>Over the seas, to silent Palestine,</l>
+            <l>Dominion of the blood and sepulchre.</l>
+         </lg>
+         <lg n="II">
+            <l>II</l>
+            <l>Why should she give her bounty to the dead?</l>
+            <l>What is divinity if it can come</l>
+            <l>Only in silent shadows and in dreams?</l>
+            <l>Shall she not find in comforts of the sun,</l>
+            <l>In pungent fruit and bright, green wings, or else</l>
+            <l>In any balm or beauty of the earth,</l>
+            <l>Things to be cherished like the thought of heaven?</l>
+            <l>Divinity must live within herself:</l>
+            <l>Passions of rain, or moods in falling snow;</l>
+            <l>Grievings in loneliness, or unsubdued</l>
+            <l>Elations when the forest blooms; gusty</l>
+            <l>Emotions on wet roads on autumn nights;</l>
+            <l>All pleasures and all pains, remembering</l>
+            <l>The bough of summer and the winter branch.</l>
+            <l>These are the measures destined for her soul.</l>
+         </lg>
+         <lg n="III">
+            <l>III</l>
+            <l>Jove in the clouds had his inhuman birth.</l>
+            <l>No mother suckled him, no sweet land gave</l>
+            <l>Large-mannered motions to his mythy mind.</l>
+            <l>He moved among us, as a muttering king,</l>
+            <l>Magnificent, would move among his hinds,</l>
+            <l>Until our blood, commingling, virginal,</l>
+            <l>With heaven, brought such requital to desire</l>
+            <l>The very hinds discerned it, in a star.</l>
+            <l>Shall our blood fail? Or shall it come to be</l>
+            <l>The blood of paradise? And shall the earth</l>
+            <l>Seem all of paradise that we shall know?</l>
+            <l>The sky will be much friendlier then than now,</l>
+            <l>A part of labor and a part of pain,</l>
+            <l>And next in glory to enduring love,</l>
+            <l>Not this dividing and indifferent blue.</l>
+         </lg>
+         <lg n="IV">
+            <l>IV</l>
+            <l>She says, “I am content when wakened birds,</l>
+            <l>Before they fly, test the reality</l>
+            <l>Of misty fields, by their sweet questionings;</l>
+            <l>But when the birds are gone, and their warm fields</l>
+            <l>Return no more, where, then, is paradise?”</l>
+            <l>There is not any haunt of prophesy,</l>
+            <l>Nor any old chimera of the grave,</l>
+            <l>Neither the golden underground, nor isle</l>
+            <l>Melodious, where spirits gat them home,</l>
+            <l>Nor visionary south, nor cloudy palm</l>
+            <l>Remote on heaven’s hill, that has endured</l>
+            <l>As April’s green endures; or will endure</l>
+            <l>Like her remembrance of awakened birds,</l>
+            <l>Or her desire for June and evening, tipped</l>
+            <l>By the consummation of the swallow’s wings.</l>
+         </lg>
+         <lg n="V">
+            <l>V</l>
+            <l>She says, “But in contentment I still feel</l>
+            <l>The need of some imperishable bliss.”</l>
+            <l>Death is the mother of beauty; hence from her,</l>
+            <l>Alone, shall come fulfillment to our dreams</l>
+            <l>And our desires. Although she strews the leaves</l>
+            <l>Of sure obliteration on our paths,</l>
+            <l>The path sick sorrow took, the many paths</l>
+            <l>Where triumph rang its brassy phrase, or love</l>
+            <l>Whispered a little out of tenderness,</l>
+            <l>She makes the willow shiver in the sun</l>
+            <l>For maidens who were wont to sit and gaze</l>
+            <l>Upon the grass, relinquished to their feet.</l>
+            <l>She causes boys to pile new plums and pears</l>
+            <l>On disregarded plate. The maidens taste</l>
+            <l>And stray impassioned in the littering leaves.</l>
+         </lg>
+         <lg n="VI">
+            <l>VI</l>
+            <l>Is there no change of death in paradise?</l>
+            <l>Does ripe fruit never fall? Or do the boughs</l>
+            <l>Hang always heavy in that perfect sky,</l>
+            <l>Unchanging, yet so like our perishing earth,</l>
+            <l>With rivers like our own that seek for seas</l>
+            <l>They never find, the same receding shores</l>
+            <l>That never touch with inarticulate pang?</l>
+            <l>Why set the pear upon those river-banks</l>
+            <l>Or spice the shores with odors of the plum?</l>
+            <l>Alas, that they should wear our colors there,</l>
+            <l>The silken weavings of our afternoons,</l>
+            <l>And pick the strings of our insipid lutes!</l>
+            <l>Death is the mother of beauty, mystical,</l>
+            <l>Within whose burning bosom we devise</l>
+            <l>Our earthly mothers waiting, sleeplessly.</l>
+         </lg>
+         <lg n="VII">
+            <l>VII</l>
+            <l>Supple and turbulent, a ring of men</l>
+            <l>Shall chant in orgy on a summer morn</l>
+            <l>Their boisterous devotion to the sun,</l>
+            <l>Not as a god, but as a god might be,</l>
+            <l>Naked among them, like a savage source.</l>
+            <l>Their chant shall be a chant of paradise,</l>
+            <l>Out of their blood, returning to the sky;</l>
+            <l>And in their chant shall enter, voice by voice,</l>
+            <l>The windy lake wherein their lord delights,</l>
+            <l>The trees, like serafin, and echoing hills,</l>
+            <l>That choir among themselves long afterward.</l>
+            <l>They shall know well the heavenly fellowship</l>
+            <l>Of men that perish and of summer morn.</l>
+            <l>And whence they came and whither they shall go</l>
+            <l>The dew upon their feet shall manifest.</l>
+         </lg>
+         <lg n="VIII">
+            <l>VIII</l>
+            <l>She hears, upon that water without sound,</l>
+            <l>A voice that cries, “The tomb in Palestine</l>
+            <l>Is not the porch of spirits lingering.</l>
+            <l>It is the grave of Jesus, where he lay.”</l>
+            <l>We live in an old chaos of the sun,</l>
+            <l>Or old dependency of day and night,</l>
+            <l>Or island solitude, unsponsored, free,</l>
+            <l>Of that wide water, inescapable.</l>
+            <l>Deer walk upon our mountains, and the quail</l>
+            <l>Whistle about us their spontaneous cries;</l>
+            <l>Sweet berries ripen in the wilderness;</l>
+            <l>And, in the isolation of the sky,</l>
+            <l>At evening, casual flocks of pigeons make</l>
+            <l>Ambiguous undulations as they sink,</l>
+            <l>Downward to darkness, on extended wings.</l>
+         </lg>
+      </body>
+   </text>
+</TEI>
